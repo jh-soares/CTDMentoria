@@ -3,8 +3,8 @@ package sessaocinema;
 import java.util.Scanner;
 
 public class SessaoCinema {
-    
-    public static void main(String[] args) {
+     
+   public static void main(String[] args) {
         System.out.println("Bem-vindo ao Sessão Cinema");
         System.out.println("+-----------------------------------------------+");
         System.out.println("|[01]- Interestellar - [Sala 03] - [19h]");
@@ -49,7 +49,6 @@ public class SessaoCinema {
             default:
                 System.out.println("Desistir! Não assistirei filme hoje!");                
         }
-    }
         
-    
+    }
 }
